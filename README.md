@@ -1,4 +1,8 @@
 ### Hi there 👋
 
-I am Kassem Hachi.I am from algeria. I am Programmer, Designer, Animator
-- 🌱 I’m currently learning web development ( Html, css, js, php, NextJS , ReactJS )
+I am Hachi Maamoune Kassem Mostapha. I am from algeria. I am Programmer, Designer, Animator
+
+- 🌱 I’m currently learning web development ( NextJS , ReactJS )
+
+https://www.behance.net/kassemhachi
+https://www.linkedin.com/in/kassemhachi/
