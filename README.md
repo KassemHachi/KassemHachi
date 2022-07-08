@@ -13,8 +13,11 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria. I am Programmer, Designe
   * Windows Application :
       - C# & DeveExpress
   
+  * WebScrapping:
+      - Python BeautifulSoup4 
+  
   * Bot & Automation :
-      - python-bincace
+      - python-binance
       - telebot
       - DialogFlow
 
