@@ -23,5 +23,5 @@ https://www.behance.net/kassemhachi
 <br>
 https://www.linkedin.com/in/kassemhachi/
 <br>
-<a href="mailto:hachimaamounekm@gmail.com">hachimaamounekm@gmail.com</a>
+<a href="mailto:kassem.hachi@terrainknowledge.com">kassem.hachi@terrainknowledge.com</a>
 
