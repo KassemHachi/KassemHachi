@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hachi Maamoune Kassem Mostapha. I am from algeria. I am Programmer, Designer, Animator
+I am Hachi Maamoune Kassem Mostapha. I am from algeria.
 
 ### Skills : 
   * Web developement :
