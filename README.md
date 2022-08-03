@@ -13,7 +13,8 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
   * WebScrapping:
       - Python BeautifulSoup4 
 
- * Design & photo Editing :
+ * Design & Motion Graphic :
+      - Adobe After Effects
       - Adobe Illustrator
       - Adobe Photoshop
 
