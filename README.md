@@ -10,8 +10,10 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - JQuery
       - Bootstrap
   
-  * WebScrapping:
-      - Python BeautifulSoup4 
+  * Programming Languages:
+      - Python
+      - Javascript
+      - C#
 
  * Design & Motion Graphic :
       - Adobe After Effects
