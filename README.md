@@ -10,7 +10,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - JQuery
       - Bootstrap
   
-  * Programming Languages:
+  * Programming Languages :
       - Python
       - Javascript
       - C#
