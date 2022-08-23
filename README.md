@@ -3,7 +3,7 @@
 I am Hachi Maamoune Kassem Mostapha. I am from algeria.
 
 ### Skills : 
-  * Web developement :
+  * Frameworks/Libraries :
       - Wordpress
       - NextJS & ReactJS
       - TailwindCSS
