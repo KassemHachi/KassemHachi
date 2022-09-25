@@ -20,7 +20,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - Adobe Illustrator
       - Adobe Photoshop
 
-- 🌱 I’m currently learning web development ( NextJS , ReactJS )
+- 🌱 I’m currently learning web development ( NextJS , ReactJS , ChartJS )
 
 https://www.behance.net/kassemhachi 
 <br>
