@@ -9,6 +9,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - TailwindCSS
       - JQuery
       - Bootstrap
+      - ChartJS
   
   * Programming Languages :
       - Python
