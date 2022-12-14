@@ -13,7 +13,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
   
   * Programming Languages :
       - Python
-      - Javascript
+      - Javascript and Typrscript
       - C#
 
  * Design & Motion Graphic :
