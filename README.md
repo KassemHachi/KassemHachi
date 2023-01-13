@@ -3,13 +3,14 @@
 I am Hachi Maamoune Kassem Mostapha. I am from algeria.
 
 ### Skills : 
-  * Frameworks/Libraries :
+  * Frameworks/Libraries/CMS :
       - Wordpress
       - NextJS & ReactJS
       - TailwindCSS
       - JQuery
       - Bootstrap
       - ChartJS
+      - Ionic framework
   
   * Programming Languages :
       - Python
