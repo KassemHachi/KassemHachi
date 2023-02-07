@@ -11,6 +11,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - Bootstrap
       - ChartJS
       - Ionic framework
+      - Filament TALL stack
   
   * Programming Languages :
       - Python
@@ -22,7 +23,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - Adobe Illustrator
       - Adobe Photoshop
 
-- 🌱 I’m currently learning web development ( NextJS , ReactJS , ChartJS )
+- 🌱 I’m currently learning web development ( NextJS , ReactJS , ChartJS, TALL Stack )
 
 https://www.behance.net/kassemhachi 
 <br>
