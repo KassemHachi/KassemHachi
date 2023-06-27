@@ -4,6 +4,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
 
 ### Skills : 
   * Frameworks/Libraries/CMS :
+      - Laravel
       - Wordpress
       - NextJS & ReactJS
       - TailwindCSS
@@ -14,16 +15,17 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - Filament TALL stack
   
   * Programming Languages :
+      - PHP
       - Python
       - Javascript and Typrscript
       - C#
 
- * Design & Motion Graphic :
+ * Design & Motion Graphic Tools :
       - Adobe After Effects
       - Adobe Illustrator
       - Adobe Photoshop
 
-- 🌱 I’m currently learning web development ( NextJS , ReactJS , ChartJS, TALL Stack )
+- 🌱 I’m currently learning web development ( Laravel )
 
 https://kassemhachi.github.io
 <br>
