@@ -9,10 +9,12 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - NextJS & ReactJS
       - TailwindCSS
       - JQuery
+      - Livewire and AlpineJS
       - Bootstrap
       - ChartJS
+      - TALL Stack
       - Ionic framework
-      - Filament TALL stack
+      - Filament
   
   * Programming Languages :
       - PHP
@@ -20,10 +22,6 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - Javascript and Typrscript
       - C#
 
- * Design & Motion Graphic Tools :
-      - Adobe After Effects
-      - Adobe Illustrator
-      - Adobe Photoshop
 
 - 🌱 I’m currently learning web development ( Laravel )
 
