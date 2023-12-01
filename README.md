@@ -7,6 +7,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - Laravel
       - Wordpress
       - NextJS & ReactJS
+      - React Native
       - TailwindCSS
       - JQuery
       - Livewire and AlpineJS
