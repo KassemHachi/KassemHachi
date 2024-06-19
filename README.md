@@ -4,6 +4,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
 
 ### Skills : 
   * Frameworks/Libraries/CMS :
+      - NestJS
       - Laravel
       - Wordpress
       - NextJS & ReactJS
@@ -24,7 +25,7 @@ I am Hachi Maamoune Kassem Mostapha. I am from algeria.
       - C#
 
 
-- 🌱 I’m currently learning web development ( Laravel )
+- 🌱 I’m currently learning web development ( Laravel, NestJS )
 
 https://kassemhachi.github.io
 <br>
