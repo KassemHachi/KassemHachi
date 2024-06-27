@@ -31,5 +31,5 @@ https://kassemhachi.github.io
 <br>
 https://www.linkedin.com/in/kassemhachi/
 <br>
-<a href="mailto:kassem.hachi@terrainknowledge.com">kassem.hachi@terrainknowledge.com</a>
+<a href="mailto:kassem.hachi@icloud.com">kassem.hachi@icloud.com</a>
 
