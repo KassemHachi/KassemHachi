@@ -26,8 +26,6 @@ I am confident that my experience, problem-solving skills, and ability to collab
 - Python
 
 
-🌱 I’m currently learning web development ( Laravel, NestJS )
-
 ## Contact me:
 - <a href="https://kassemhachi.github.io/">https://kassemhachi.github.io/</a>
 - <a href="https://www.linkedin.com/in/kassemhachi">https://www.linkedin.com/in/kassemhachi</a>
