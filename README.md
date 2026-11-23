@@ -5,15 +5,13 @@ Hello! I am Full Stack developer . I have over 5 years of experience specializin
 **E-commerce websites:** Developed and maintained fully functional e-commerce platforms.<br>
 **B2B solutions:** Delivered SaaS-based solutions for enterprise clients.<br>
 **CRMs:** Built custom CRMs to optimize business operations.<br>
-**Geospatial systems:** Worked on applications involving spatial data and mapping technologies.<br>
+**Geospatial systems:** Worked on applications involving spatial data and mapping technologies. and I am Familiar with Leaflet and OpenLayers<br>
 Dynamic forms and no-code apps: Created customizable forms and applications that enable users to build solutions without code.<br>
 
 ## Key Skills & Technologies:
 **Front-end frameworks:** React.js, Next.js <br>
 **Back-end frameworks:** Laravel, NestJS, Django, FastAPI <br>
 **Database management:** PostgreSQL, MySQL, MongoDB <br>
-**Authentication:** JWT, simple token-based systems <br>
-**Role Management:** Spatie Permissions, RBAC <br>
 **Clean Code & Architecture:** Adhere to SOLID principles and design patterns to ensure high code quality. <br>
 **Version Control & Collaboration:** Proficient with Git/GitHub, experienced in Agile/Scrum methodologies. <br>
 **DevOps:** Familiar with CI/CD pipelines, Podman, and Docker. <br><br>
